@@ -1,6 +1,6 @@
 # Shivangi Kakadiya
 
-IT professional based in Sydney, Australia — specialising in data analysis, Python automation, and AI-driven solutions.
+IT professional based in Sydney, Australia - specialising in data analysis, Python automation, and AI-driven solutions.
 
 Master of Information Technology (Information Systems) · Charles Darwin University  
 Currently completing a Professional Year Program in Sydney.
